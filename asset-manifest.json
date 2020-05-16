@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InternetShopReactRedux/static/css/main.c0e375ba.chunk.css",
+    "main.js": "/InternetShopReactRedux/static/js/main.fbabfcd4.chunk.js",
+    "main.js.map": "/InternetShopReactRedux/static/js/main.fbabfcd4.chunk.js.map",
+    "runtime~main.js": "/InternetShopReactRedux/static/js/runtime~main.237abbfd.js",
+    "runtime~main.js.map": "/InternetShopReactRedux/static/js/runtime~main.237abbfd.js.map",
+    "static/js/2.b2e7513c.chunk.js": "/InternetShopReactRedux/static/js/2.b2e7513c.chunk.js",
+    "static/js/2.b2e7513c.chunk.js.map": "/InternetShopReactRedux/static/js/2.b2e7513c.chunk.js.map",
+    "index.html": "/InternetShopReactRedux/index.html",
+    "precache-manifest.266ded18f96576cee72cdb9f832b8d85.js": "/InternetShopReactRedux/precache-manifest.266ded18f96576cee72cdb9f832b8d85.js",
+    "service-worker.js": "/InternetShopReactRedux/service-worker.js",
+    "static/css/main.c0e375ba.chunk.css.map": "/InternetShopReactRedux/static/css/main.c0e375ba.chunk.css.map"
+  }
+}
