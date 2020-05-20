@@ -1,4 +1,5 @@
-import './main.css'
+import './main.css';
+// import module from 'module';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
@@ -10,7 +11,7 @@ import { composeWithDevTools } from 'redux-devtools-extension';
 import {Provider} from 'react-redux';
 
 import createRootReducer from 'reducers';
-import Layout from 'containers/layout/index.js';
+import routes from 'routes'
 
 
 const history = createBrowserHistory();
@@ -26,7 +27,7 @@ const store = createStore(
 ReactDOM.render (
   <Provider store={store}>
     <ConnectedRouter history={history}>
-      <Layout />
+      {routes}
     </ConnectedRouter>
   </Provider>,
 document.getElementById('root')
